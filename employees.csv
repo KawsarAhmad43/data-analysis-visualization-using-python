@@ -1,0 +1,11 @@
+serial,name,designation,join date,university,salary,gender,age
+1,mynul,system analyst,14/4/2013,JU,30000,M,45
+2,mahbub,project manager,8/8/2022,CU,20000,M,42
+3,bappy,HR,14/4/2018,DU,15000,M,34
+4,shafiq,Sr. Software Engineer,17/8/2022,SEU,18000,M,30
+5,arif,Sr. Software Engineer,8/10/2022,SCU,16000,M,27
+6,sadia,SQA,1/7/2022,DIU,12000,F,26
+7,sarfaraz,Jr. Software Engineer,19/8/2022,BU,12000,M,23
+8,kawsar,Jr. Programmer,8/1/2022,BU,8000,M,23
+9,nahid,Frontend Developer,1/8/2021,DU,10000,M,24
+10,mustafizur,CEO,14/4/2012,JU,45000,M,45
